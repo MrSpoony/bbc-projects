@@ -22,3 +22,6 @@
 [submodule "grader"]
 	path = grader
 	url = git@github.com:MrSpoony/grader
+[submodule "cube-statistics"]
+	path = cube-statistics
+	url = git@github.com:MrSpoony/cube-statistics
