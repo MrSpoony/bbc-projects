@@ -1,0 +1,21 @@
+[submodule "BlackJack-JavaFX"]
+	path = BlackJack-JavaFX
+	url = ./BlackJack-JavaFX
+[submodule "CLI-chess"]
+	path = CLI-chess
+	url = ./CLI-chess
+[submodule "ConsoleTetris"]
+	path = ConsoleTetris
+	url = ./ConsoleTetris
+[submodule "ConsoleTicTacToe"]
+	path = ConsoleTicTacToe
+	url = ./ConsoleTicTacToe
+[submodule "IoE-Project-RFID-Badge-System"]
+	path = IoE-Project-RFID-Badge-System
+	url = ./IoE-Project-RFID-Badge-System
+[submodule "kspoon.ch"]
+	path = kspoon.ch
+	url = ./kspoon.ch
+[submodule "Speedcubing-Presentation"]
+	path = Speedcubing-Presentation
+	url = ./Speedcubing-Presentation
