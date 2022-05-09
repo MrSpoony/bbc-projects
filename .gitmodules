@@ -1,21 +1,21 @@
 [submodule "BlackJack-JavaFX"]
 	path = BlackJack-JavaFX
-	url = ./BlackJack-JavaFX
+	url = git@github.com:MrSpoony/BlackJack-JavaFX.git
 [submodule "CLI-chess"]
 	path = CLI-chess
-	url = ./CLI-chess
+	url = git@github.com:MrSpoony/CLI-chess
 [submodule "ConsoleTetris"]
 	path = ConsoleTetris
-	url = ./ConsoleTetris
+	url = git@github.com:MrSpoony/ConsoleTetris
 [submodule "ConsoleTicTacToe"]
 	path = ConsoleTicTacToe
-	url = ./ConsoleTicTacToe
+	url = git@github.com:MrSpoony/ConsoleTicTacToe
 [submodule "IoE-Project-RFID-Badge-System"]
 	path = IoE-Project-RFID-Badge-System
-	url = ./IoE-Project-RFID-Badge-System
+	url = git@github.com:MrSpoony/IoE-Project-RFID-Badge-System
 [submodule "kspoon.ch"]
 	path = kspoon.ch
-	url = ./kspoon.ch
+	url = git@github.com:MrSpoony/kspoon.ch
 [submodule "Speedcubing-Presentation"]
 	path = Speedcubing-Presentation
-	url = ./Speedcubing-Presentation
+	url = git@github.com:MrSpoony/Speedcubing-Presentation
