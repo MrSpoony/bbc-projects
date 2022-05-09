@@ -19,3 +19,6 @@
 [submodule "Speedcubing-Presentation"]
 	path = Speedcubing-Presentation
 	url = git@github.com:MrSpoony/Speedcubing-Presentation
+[submodule "grader"]
+	path = grader
+	url = git@github.com:MrSpoony/grader
